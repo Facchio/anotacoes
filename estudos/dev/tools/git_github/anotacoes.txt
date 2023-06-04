@@ -1,4 +1,21 @@
 --------------------------------------------------------------------------------
 GIT e GITHUB - Anotações sobre estudos e funcionamento
 --------------------------------------------------------------------------------
+INDICE
+
+
+APENDICE
+I  - Autenticação no GIT HUB
+--------------------------------------------------------------------------------
 01 - Ciclo de vida dos COMMITS locais
+
+
+--------------------------------------------------------------------------------
+APÊNDICE
+--------------------------------------------------------------------------------
+I  - 	Autenticação no GIT HUB
+	Para autenticação no GIT GUB é necessária a instalação de uma chave SSH
+	no computador local e a vinculação desta mesma chave no GIT HUB.
+	O link a seguir descreve os passos a serem realizados para concluir essa
+	tarefa:
+	https://cursos.alura.com.br/forum/topico-permission-denied-publickey-82429
