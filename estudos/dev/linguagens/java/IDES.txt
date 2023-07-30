@@ -1,7 +1,25 @@
 ----------------------------------------------------------------------------------------------------
 JAVA - Anotações sobre instalação e IDEs
 ----------------------------------------------------------------------------------------------------
-INDICE
+INSTALAÇÃO
+	1. JDK: Buscar no Googlempor versão desejada; baixar e instalar;
+
+----------------------------------------------------------------------------------------------------
+IDES
+
+	ECLIPSE:
+	https://www.eclipse.org/?gclid=CjwKCAjw5MOlBhBTEiwAAJ8e1t3m8d8_QfA4ZC_tRyJKzG7fbAmu2rU5yBoHlOvkfrBCfuEh6Cp-ShoCsH4QAvD_BwE
+
+	IntelliJ:
+	https://www.jetbrains.com/pt-br/idea/
+
+	VSCode:
+	https://code.visualstudio.com/docs/languages/java
+
+		Iniciar Projeto: 	- ctrl+shipt+p
+					- Java: Java Create Project
+	
+	
 
 
 
